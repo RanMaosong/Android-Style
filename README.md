@@ -129,7 +129,7 @@ ring形状特有的属性：
 
 效果图:
 
-![shaoe_ring](pics/shaoe_ring-6318159677.png)
+![shaoe_ring](pics/shaoe_ring.png)
 
 实现代码在[项目](https://github.com/RanMaosong/Android-Style)的drawable目录下，依次为：
 
