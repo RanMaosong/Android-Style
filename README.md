@@ -74,7 +74,7 @@ oval 用来花椭圆，通常用来画正圆，在上面的属性基础啊上加
   + android:width 宽度
   + android:height 高度
 
-![shape_oval](/home/song/Documents/program/Android/XMLStyle/pics/shape_oval.png)
+![shape_oval](pics/shape_oval.png)
 
 实现代码在[项目](https://github.com/RanMaosong/Android-Style)的drawable目录下，依次为：
 
